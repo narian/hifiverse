@@ -1,0 +1,31 @@
+{
+    "model_name": "string",
+    "company": "string",
+
+    "type": "string",
+    "subtype": "string",
+
+    "ai_balanced": "integer",
+    "ai_single": "integer",
+
+    "max_input_balanced": "string",
+    "max_input_single": "string",
+
+    "ao_balanced": "string",
+    "ao_single": "string",
+
+    "max_output_balanced": "integer",
+    "max_output_single": "integer",
+
+    "output_noise_balanced": "integer",
+    "output_noise_single": "integer",
+
+    "volume_control_range": "string",
+    "freq_response": "string",
+    "signal_noise_ratio": "integer",
+    "total_harm_noise": "integer",
+
+    "dimensions": "string",
+    "weight": "float",
+    "link": "string"
+}

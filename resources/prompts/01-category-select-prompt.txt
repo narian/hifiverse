@@ -1,0 +1,1 @@
+Can you determine name of category of equipment from json object in provided text below? You need to return only key from the object. If you cannot determine the category, just return null.

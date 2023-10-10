@@ -1,0 +1,16 @@
+Remember this list of categories, presented as json object:
+{
+    "cd_player": "CD Players",
+    "dac": "Digital to analog converter",
+    "phonostage": "Phonostage",
+    "preamp": "Preamplifier",
+    "poweramp_stereo": "Power amplifier stereo",
+    "poweramp_mono": "Power amplifier mono",
+    "integrated_amp": "Integrated amplifier",
+    "loudspeaker_floor": "Floor loudspeaker",
+    "loudspeaker_bookshelf": "Bookshelf loudspeaker",
+    "speaker_channel_center": "Center channel speaker",
+    "speaker_channel_rear": "Rear channel speaker",
+    "subwoofer": "Subwoofer"
+}
+Values of the object are name of categories of musical equipment.
